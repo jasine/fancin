@@ -17,7 +17,7 @@ This project is modified on [Nginx-Fancyindex-Theme](https://github.com/TheInsom
     	fancyindex_header "/fancin/header.html";
     	fancyindex_footer "/fancin/footer.html";
     	fancyindex_ignore "fancin"; #ignore this directory when showing list
-    
+ - replace `images\logo.png` with your logo image
  - copy the remaining items in your web root under 'fancin'.
  - copy the remaining items in your web root under 'fancin'.
   - header.html
