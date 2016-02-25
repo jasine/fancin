@@ -1,7 +1,7 @@
 Fancin
 ===
 
-Fancin is a theme for nginx' fancyindex module, bootstrap is used in this Fancin. More info about this can be found [here](https://github.com/aperezdc/ngx-fancyindex).
+Fancin is a theme for nginx' fancyindex module, bootstrap is used in Fancin. More info about this can be found [here](https://github.com/aperezdc/ngx-fancyindex).
 
 This project is modified on [Nginx-Fancyindex-Theme](https://github.com/TheInsomniac/Nginx-Fancyindex-Theme)
 
