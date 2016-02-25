@@ -6,7 +6,7 @@ Fancin is a theme for nginx' fancyindex module, bootstrap is used in this Fancin
 This project is modified on [Nginx-Fancyindex-Theme](https://github.com/TheInsomniac/Nginx-Fancyindex-Theme)
 
 [Demo](http://mirrors.opencas.org)
-
+![a](http://77g87i.com1.z0.glb.clouddn.com/fancin.png)
 #####Usage:
  - Compile nginx with the fancyindex module.
  - Include the following config to your nginx conf.
